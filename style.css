@@ -1,0 +1,21 @@
+.navbar {
+  background-color: rgb(28, 59, 105);
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+.navbar-brand:hover {
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.nav-link:hover {
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
